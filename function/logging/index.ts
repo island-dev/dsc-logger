@@ -1,8 +1,8 @@
-import { Logger } from "../../Logger/index.ts";
-import { colors } from "../../Colors/index.ts";
-import { startAnimation, stopAnimation } from "../../Animation/index.ts";
+import { Logger } from "../../logger/index.ts";
+import { colors } from "../../colors/index.ts";
+import { startAnimation, stopAnimation } from "../../animation/index.ts";
 import "https://deno.land/std@0.191.0/dotenv/load.ts";
-import { Message } from "../../Types/types.ts";
+import { Message } from "../../types.d.ts";
 
 export class Logging {
   static async getChannelMessages() {

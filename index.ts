@@ -1,6 +1,6 @@
-import { colors } from "./Colors/index.ts";
-import { Logger } from "./Logger/index.ts";
-import { Prompt } from "./Prompt/index.ts";
+import { colors } from "./colors/index.ts";
+import { Logger } from "./logger/index.ts";
+import { Prompt } from "./prompt/index.ts";
 import { Logging } from "./function/logging/index.ts";
 import { settings } from "./function/settings/index.ts";
 
