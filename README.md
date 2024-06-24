@@ -5,8 +5,11 @@ Discordの過去のメッセージログをjsonファイルとして保存でき
 ## How to use
 
 Clone this repository
+
 ```git clone https://github.com/island-dev/dsc-log```
+
 And Run!
+
 ```deno run -Ar index.ts```
 
 ## Mode Description
