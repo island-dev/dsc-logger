@@ -1,1 +1,3 @@
 # dsc-log
+
+Discordのサーバー
