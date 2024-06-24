@@ -72,7 +72,7 @@ export class Logging {
         remainingLimit -= messages.length;
         beforeId = messages[messages.length - 1].id;
 
-        await new Promise((resolve) => setTimeout(resolve, 1000));
+        await new Promise((resolve) => setTimeout(resolve, 500));
       }
 
       stopAnimation(Animation);
