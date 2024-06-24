@@ -14,7 +14,7 @@ while (true) {
       await Logging.getChannelMessages();
       break;
     case "plogger":
-      await Logging.getPersonMessages();
+      await Logging.getSpecificUserMessages();
       break;
 
     case "settings":

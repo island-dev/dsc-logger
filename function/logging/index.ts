@@ -93,7 +93,7 @@ export class Logging {
     }
   }
 
-  static getPersonMessages() {
+  static getSpecificUserMessages() {
     console.log("WIP");
   }
 }
