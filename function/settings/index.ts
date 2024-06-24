@@ -1,4 +1,4 @@
-import { Logger } from "../../Logger/index.ts";
+import { Logger } from "../../logger/index.ts";
 
 export class settings {
   static async tokenSetting() {
