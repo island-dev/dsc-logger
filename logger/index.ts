@@ -1,4 +1,4 @@
-import { colors } from "../Colors/index.ts";
+import { colors } from "../colors/index.ts";
 
 export class Logger {
   static log(message: string, type: "success" | "warn" | "error" = "success") {
