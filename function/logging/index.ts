@@ -76,7 +76,7 @@ export class Logging {
       }
 
       stopAnimation(Animation);
-      const relativePath = `./Logs/channel_${channel_id}_${limit}.json`;
+      const relativePath = `./Logs/channel_${channel_id}_${allMessages.length}.json`;
 
       await Deno.writeTextFile(
         relativePath,
