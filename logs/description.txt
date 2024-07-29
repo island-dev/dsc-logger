@@ -1,1 +1,2 @@
-ここのディレクトリにログファイルが保存されていきます
+Author: https://x.com/island_devs
+Repo url: https://github.com/island-dev/dsc-logger
