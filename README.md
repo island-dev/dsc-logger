@@ -1,4 +1,4 @@
-# dsc-log
+# dsc-logger
 
 Discordの過去のメッセージログをjsonファイルとして保存できるツール
 
